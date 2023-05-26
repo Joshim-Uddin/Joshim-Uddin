@@ -1,7 +1,7 @@
 ![I'm a MERN Stack Web Developer](https://scontent.fird1-1.fna.fbcdn.net/v/t39.30808-6/349165720_2121355154921757_7646933095938005696_n.png?stp=dst-png_p526x395&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=M_L7-f0zMK0AX9hb3j_&_nc_ht=scontent.fird1-1.fna&oh=00_AfBoF-HYKXntjWH2M_73bdD6ty1xA8GGyxzN_vTPNZjpAQ&oe=64758BEA)
 # 💫 About Me:
 ## <div align="left">I'm Md. Joshim Uddin, <br/> A full-time front-end developer working from Bangladesh</div>  
-  <p>Md. Joshim Uddin is a talented and dedicated fresher MERN stack developer with expertise in HTML, JavaScript, React JS, Node JS, Express JS, MongoDB, Firebase, Tailwind, and Bootstrap. With a passion for crafting dynamic and user-friendly web applications, Joshim possesses a strong foundation in front-end and back-end development. His ability to adapt quickly, solve problems efficiently, and collaborate effectively make him a valuable asset to any development team. Eager to contribute to innovative projects, Joshim's drive for continuous learning and growth fuels his commitment to delivering exceptional results.</p>
+  <p>I'm a committed and dedicated fresher MERN stack developer with expertise in HTML, JavaScript, React JS, Node JS, Express JS, MongoDB, Firebase, Tailwind, and Bootstrap. With a passion for crafting dynamic and user-friendly web applications, I possess a strong foundation in front-end and back-end development. My ability to adapt as per need and collaborate effectively with any development team. Eager to contribute to innovative projects, my drive for continuous learning and growth fuels my commitment to delivering exceptional results.</p>
 
 - 🔭 I’m currently working on [Github](https://github.com/joshim-uddin)  
   
