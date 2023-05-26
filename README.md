@@ -1,6 +1,18 @@
 ![I'm a MERN Stack Web Developer](https://scontent.fird1-1.fna.fbcdn.net/v/t39.30808-6/349165720_2121355154921757_7646933095938005696_n.png?stp=dst-png_p526x395&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=M_L7-f0zMK0AX9hb3j_&_nc_ht=scontent.fird1-1.fna&oh=00_AfBoF-HYKXntjWH2M_73bdD6ty1xA8GGyxzN_vTPNZjpAQ&oe=64758BEA)
 # 💫 About Me:
-🔭 I’m currently working on REACT Project<br>👯 I’m looking to collaborate on Dynamic Team<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about<br>⚡ Fun fact
+### <div align="center">I'm Md. Joshim Uddin, a full-time front-end developer working from Bangladesh</div>  
+  
+
+- 🔭 I’m currently working on [Github](https://github.com/joshim-uddin)  
+  
+
+- 🌱 I’m currently learning JavaScript  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+<br/>  
 
 
 ## 🌐 Socials:
