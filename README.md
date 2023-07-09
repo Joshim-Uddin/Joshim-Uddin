@@ -2,9 +2,9 @@
 <img src="https://media.licdn.com/dms/image/D5616AQExJID1Gqp5mQ/profile-displaybackgroundimage-shrink_350_1400/0/1685728123740?e=1694649600&v=beta&t=sycOGpPIKmWPRZ1M6xhcWfh0LCKUkABu18S9lyw_zIc" align="center" style="width: 100%" />
 </div>  
 
-## 💫 About Me:
+### 💫 About Me:
 
-# <div align="left">I'm Md. Joshim Uddin, <br/> A full-time front-end developer working from Bangladesh</div>  
+## <div align="left">I'm Md. Joshim Uddin, <br/> A full-time front-end developer working from Bangladesh</div>  
  <p>I'm a committed and dedicated fresher MERN stack developer with expertise in HTML, JavaScript, React JS, Node JS, Express JS, MongoDB, Firebase, Tailwind, and Bootstrap. With a passion for crafting dynamic and user-friendly web applications, I possess a strong foundation in front-end and back-end development. My ability to adapt as per need and collaborate effectively with any development team. Eager to contribute to innovative projects, my drive for continuous learning and growth fuels my commitment to delivering exceptional results.</p>
 
 - 🔭 I’m currently working on [Github](https://github.com/joshim-uddin)  
