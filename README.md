@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQExJID1Gqp5mQ/profile-displaybackgroundimage-shrink_350_1400/0/1685728123740?e=1694649600&v=beta&t=sycOGpPIKmWPRZ1M6xhcWfh0LCKUkABu18S9lyw_zIc" align="center" style="width: 100%" />
+<img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/349165720_2121355154921757_7646933095938005696_n.png?stp=dst-png_p240x240&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGnlqwx_Z9h0t9J5grNE09FFs4m554QehMWzibnnhB6E0kDfygncyrZToPTQDGKawD-I6mYkBJN-I9AZp6LK5UL&_nc_ohc=Ca8Y4mmM6hEAX_P2An_&_nc_ht=scontent.fdac31-1.fna&oh=00_AfAo2LM1n1N73eB8KX0exkyUXz0kRoo68AmRKGcH_kWxOQ&oe=6605026A" align="center" style="width: 100%" />
 </div>  
 
 ### 💫 About Me:
